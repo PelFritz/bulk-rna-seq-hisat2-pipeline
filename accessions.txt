@@ -1,0 +1,3 @@
+SRR1740404,single
+SRR1740403,single
+SRR25112172,paired
